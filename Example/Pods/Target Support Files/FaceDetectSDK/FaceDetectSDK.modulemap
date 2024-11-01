@@ -1,0 +1,6 @@
+framework module FaceDetectSDK {
+  umbrella header "FaceDetectSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

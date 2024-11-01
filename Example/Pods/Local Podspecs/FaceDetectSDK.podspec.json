@@ -1,0 +1,27 @@
+{
+  "name": "FaceDetectSDK",
+  "version": "0.1.0",
+  "summary": "A short description of FaceDetectSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chglog/FaceDetectSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chglog": "chenhg07@vanke.com"
+  },
+  "source": {
+    "git": "https://github.com/chglog/FaceDetectSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "FaceDetectSDK/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  }
+}

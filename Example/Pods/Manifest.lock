@@ -1,0 +1,23 @@
+PODS:
+  - FaceDetectSDK (0.1.0):
+    - MBProgressHUD
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - FaceDetectSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  FaceDetectSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FaceDetectSDK: 29f3f8f25205f2c264d68dfe7394a2ad0bdb9476
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 25b999e55929096b3cb9c7a539b5cd926a6b4e2c
+
+COCOAPODS: 1.16.1
